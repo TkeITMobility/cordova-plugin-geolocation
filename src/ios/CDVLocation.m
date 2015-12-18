@@ -132,7 +132,6 @@
         return;
     }
 #endif
-    __locationStarted = YES;
 
     if (enableHighAccuracy) {
         __highAccuracyEnabled = YES;
